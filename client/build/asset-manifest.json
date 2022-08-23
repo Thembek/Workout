@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9952e32d.css",
+    "main.js": "/static/js/main.79289db4.js",
+    "static/media/lhome.jpg": "/static/media/lhome.9741c82e23988e470e28.jpg",
+    "static/media/loginland.jpg": "/static/media/loginland.4f2a550b5a2074cbc171.jpg",
+    "static/media/singup-land.avif": "/static/media/singup-land.e16d8c772e5b628d5275.avif",
+    "static/media/gymrglogo.jpg": "/static/media/gymrglogo.5b5f41f300720f008b5f.jpg",
+    "index.html": "/index.html",
+    "main.9952e32d.css.map": "/static/css/main.9952e32d.css.map",
+    "main.79289db4.js.map": "/static/js/main.79289db4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9952e32d.css",
+    "static/js/main.79289db4.js"
+  ]
+}
