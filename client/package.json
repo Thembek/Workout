@@ -1,4 +1,5 @@
 {
+  "proxy": "https://siii-workouts.herokuapp.com/",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
